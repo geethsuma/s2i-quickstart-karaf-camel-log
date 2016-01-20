@@ -19,6 +19,7 @@
     {
       "name": "GIT_REPO",
       "required": true,
+      "value": "https://github.com/mswiech/s2i-quickstart-karaf-camel-log.git",
       "description": "Git repository, required"
     },
     {
